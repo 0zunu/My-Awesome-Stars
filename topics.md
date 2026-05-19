@@ -264,6 +264,7 @@
 
 ## others 
 
+- [King-Ulee/nemesis](https://github.com/King-Ulee/nemesis) - government budget monitoring
 - [King-Ulee/Announcements-Anime](https://github.com/King-Ulee/Announcements-Anime) - :octocat: This script utilizes Node.js modules to retrieve the latest anime information from Crunchyroll's RSS feed. It then organizes this data into HTML content and updates a file with details like 
 - [assai-id/nemesis](https://github.com/assai-id/nemesis) - 
 - [King-Ulee/azriel.id](https://github.com/King-Ulee/azriel.id) - :shipit: My personal website and blog.
