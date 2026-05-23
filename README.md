@@ -37,6 +37,7 @@
 ## CSS 
 
 - [zeeoneofficial/my-rest-api](https://github.com/zeeoneofficial/my-rest-api) - Rest api using NodeJS + MongoDB, and User Authentication (login & register)
+- [0zunu/holobyte](https://github.com/0zunu/holobyte) - 🦖 Holobyte Hunted, This is a pegasaurus badge that grows over time, from a mere egg into an amazing software developer.
 
 ## Dart 
 
@@ -75,7 +76,6 @@
 - [katresnamochbayu/AbsensiKaryawanBarcode](https://github.com/katresnamochbayu/AbsensiKaryawanBarcode) - 
 - [Guru322/GURU-Ai](https://github.com/Guru322/GURU-Ai) - SIMPLE YET COMPLICATED 🚩
 - [0zunu/Daily-Check-In-Anime-Game](https://github.com/0zunu/Daily-Check-In-Anime-Game) - ✅ This script will automatically check in every day in HoYoLab, and works with Genshin Impact, Honkai Star Rail and Honkai Impact 3rd too
-- [0zunu/holobyte](https://github.com/0zunu/holobyte) - 🦖Holobyte Hunted, This is a pegasaurus badge that grows over time, from a mere egg into an amazing software developer.
 - [0zunu/AmeliaBot-Discord](https://github.com/0zunu/AmeliaBot-Discord) - 🤖 An advanced Discord Music Bot with a Dashboard, using distube.js.org having an interactive button & menu system and many features! Supported Features: Spotify • YouTube • SoundCloud • Live Stream • 
 - [BochilTeam/database](https://github.com/BochilTeam/database) - 
 
