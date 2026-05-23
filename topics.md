@@ -296,7 +296,7 @@
 - [katresnamochbayu/AbsensiKaryawanBarcode](https://github.com/katresnamochbayu/AbsensiKaryawanBarcode) - 
 - [datacamp/datacamp-light](https://github.com/datacamp/datacamp-light) - Convert any blog or website to an interactive learning platform for data science
 - [0zunu/Daily-Check-In-Anime-Game](https://github.com/0zunu/Daily-Check-In-Anime-Game) - ✅ This script will automatically check in every day in HoYoLab, and works with Genshin Impact, Honkai Star Rail and Honkai Impact 3rd too
-- [0zunu/holobyte](https://github.com/0zunu/holobyte) - 🦖Holobyte Hunted, This is a pegasaurus badge that grows over time, from a mere egg into an amazing software developer.
+- [0zunu/holobyte](https://github.com/0zunu/holobyte) - 🦖 Holobyte Hunted, This is a pegasaurus badge that grows over time, from a mere egg into an amazing software developer.
 - [0zunu/Perpustakaan](https://github.com/0zunu/Perpustakaan) - 📚 The program presented is a simple program for a Digital Library. This program utilizes object-oriented programming concepts by using several classes, namely `Color`, `Library`, `Person`, and `Studen
 - [BochilTeam/database](https://github.com/BochilTeam/database) - 
 - [0zunu/0zunu](https://github.com/0zunu/0zunu) - :shipit: A Magic Readme 🌟🧙‍♀️
