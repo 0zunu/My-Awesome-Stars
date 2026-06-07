@@ -89,6 +89,7 @@
 
 ## Markdown 
 
+- [0zunu/monitoring-all-website](https://github.com/0zunu/monitoring-all-website) - 📈 Uptime monitor and status page for all website, powered by Github
 - [0zunu/Status-Page-Advanced](https://github.com/0zunu/Status-Page-Advanced) - 📈 Uptime monitor and status page for azriel.id, powered by Github
 
 ## Others 
