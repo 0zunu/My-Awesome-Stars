@@ -41,6 +41,7 @@
 - [llm](#llm)
 - [machine-learning](#machine-learning)
 - [markdown](#markdown)
+- [monitoring](#monitoring)
 - [music](#music)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
@@ -228,6 +229,10 @@
 ## markdown 
 
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
+
+## monitoring 
+
+- [0zunu/monitoring-all-website](https://github.com/0zunu/monitoring-all-website) - 📈 Uptime monitor and status page for all website, powered by Github
 
 ## music 
 
