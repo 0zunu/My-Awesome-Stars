@@ -276,7 +276,7 @@
 - [Beneark/Pohon-Natal](https://github.com/Beneark/Pohon-Natal) - 
 - [gludugbanyu/cbt-eschool](https://github.com/gludugbanyu/cbt-eschool) - CBT soal AKM. Php 8, Javascript, MySql Aplikasi ujian berbasis web. Dirancang untuk mendukung pelaksanaan ujian online di sekolah dengan fitur keamanan, manajemen soal, dan laporan hasil ujian. berbag
 - [lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth) - One-stop Auth package for CodeIgniter 4
-- [0zunu/Destiny.Industries](https://github.com/0zunu/Destiny.Industries) - 👔 The Destiny.Industries application is created in accordance with the policies and requests from Tokoku to manage the sales information system for the clothing it sells.
+- [0zunu/Destiny.Industries](https://github.com/0zunu/Destiny.Industries) - 👔 The Destiny.Industries application is created in accordance with the policies and requests from Destiny to manage the sales information system for the clothing it sells.
 - [seriaati/genshin.py](https://github.com/seriaati/genshin.py) - API wrapper for HoYoLAB/Miyoushe API built on asyncio and pydantic.
 - [worldcoin/orb-hardware](https://github.com/worldcoin/orb-hardware) - Hardware specifications and schematics for the Worldcoin Orb.
 - [worldcoin/world-id-contracts](https://github.com/worldcoin/world-id-contracts) - Internal use. Smart contracts powering the World ID protocol and the Worldcoin app airdrops.
