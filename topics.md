@@ -69,12 +69,14 @@
 
 ## ai 
 
+- [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
 - [Guru322/GURU-Ai](https://github.com/Guru322/GURU-Ai) - SIMPLE YET COMPLICATED 🚩
 
 ## ai-agents 
 
+- [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve
 - [watchfire-io/watchfire](https://github.com/watchfire-io/watchfire) - Better context. Better code.
 
 ## android 
@@ -115,6 +117,7 @@
 
 ## cli 
 
+- [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve
 - [watchfire-io/watchfire](https://github.com/watchfire-io/watchfire) - Better context. Better code.
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 
@@ -268,7 +271,6 @@
 
 ## others 
 
-- [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - 
 - [0zunu/nemesis](https://github.com/0zunu/nemesis) - government budget monitoring
 - [0zunu/Announcements-Anime](https://github.com/0zunu/Announcements-Anime) - :octocat: This script utilizes Node.js modules to retrieve the latest anime information from Crunchyroll's RSS feed. It then organizes this data into HTML content and updates a file with details like 
 - [assai-id/nemesis](https://github.com/assai-id/nemesis) - 
