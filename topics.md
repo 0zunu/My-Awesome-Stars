@@ -271,6 +271,7 @@
 
 ## others 
 
+- [0zunu/downloader](https://github.com/0zunu/downloader) - 
 - [0zunu/nemesis](https://github.com/0zunu/nemesis) - government budget monitoring
 - [0zunu/Announcements-Anime](https://github.com/0zunu/Announcements-Anime) - :octocat: This script utilizes Node.js modules to retrieve the latest anime information from Crunchyroll's RSS feed. It then organizes this data into HTML content and updates a file with details like 
 - [assai-id/nemesis](https://github.com/assai-id/nemesis) - 
