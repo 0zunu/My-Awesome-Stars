@@ -277,11 +277,11 @@
 
 ## others 
 
+- [0zunu/azriel.id](https://github.com/0zunu/azriel.id) - :shipit: My personal website and blog.
 - [0zunu/downloader](https://github.com/0zunu/downloader) - A simple Flask-based media downloader using yt-dlp.
 - [0zunu/nemesis](https://github.com/0zunu/nemesis) - government budget monitoring
 - [0zunu/Announcements-Anime](https://github.com/0zunu/Announcements-Anime) - :octocat: This script utilizes Node.js modules to retrieve the latest anime information from Crunchyroll's RSS feed. It then organizes this data into HTML content and updates a file with details like 
 - [assai-id/nemesis](https://github.com/assai-id/nemesis) - 
-- [0zunu/azriel.id](https://github.com/0zunu/azriel.id) - :shipit: My personal website and blog.
 - [Beneark/Pohon-Natal](https://github.com/Beneark/Pohon-Natal) - 
 - [gludugbanyu/cbt-eschool](https://github.com/gludugbanyu/cbt-eschool) - CBT soal AKM. Php 8, Javascript, MySql Aplikasi ujian berbasis web. Dirancang untuk mendukung pelaksanaan ujian online di sekolah dengan fitur keamanan, manajemen soal, dan laporan hasil ujian. berbag
 - [lonnieezell/myth-auth](https://github.com/lonnieezell/myth-auth) - One-stop Auth package for CodeIgniter 4
