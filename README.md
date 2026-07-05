@@ -36,6 +36,7 @@
 
 ## CSS 
 
+- [0zunu/azriel.id](https://github.com/0zunu/azriel.id) - :shipit: My personal website and blog.
 - [0zunu/downloader](https://github.com/0zunu/downloader) - A simple Flask-based media downloader using yt-dlp.
 - [zeeoneofficial/my-rest-api](https://github.com/zeeoneofficial/my-rest-api) - Rest api using NodeJS + MongoDB, and User Authentication (login & register)
 - [0zunu/holobyte](https://github.com/0zunu/holobyte) - 🦖 Holobyte Hunted, This is a pegasaurus badge that grows over time, from a mere egg into an amazing software developer.
@@ -52,7 +53,6 @@
 
 ## HTML 
 
-- [0zunu/azriel.id](https://github.com/0zunu/azriel.id) - :shipit: My personal website and blog.
 - [0zunu/blowfish](https://github.com/0zunu/blowfish) - Personal Website & Blog Theme for Hugo
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
 - [0zunu/King-Genshin-StarRail-Stats](https://github.com/0zunu/King-Genshin-StarRail-Stats) - 🍰 Anime Game Stats is a Python script that collects statistics and information from anime games, specifically Genshin Impact and Honkai: Star Rail. 🍹This repository can check in automatically, and red
