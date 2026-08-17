@@ -105,6 +105,7 @@
 
 ## PHP 
 
+- [ikhsan3adi/absensi-sekolah-qr-code](https://github.com/ikhsan3adi/absensi-sekolah-qr-code) - Sistem absensi sekolah berbasis QR Code dengan multi-role, manajemen hari libur, notifikasi WhatsApp, serta fitur-fitur lainnya.
 - [bagussatoto/Aplikasi-Data-Penjualan-Laravel-8](https://github.com/bagussatoto/Aplikasi-Data-Penjualan-Laravel-8) - Membuat Aplikasi Berbasis Web Data Penjualan Menggunakan Laravel 8, Yang Bertujuan Untuk Presentasi Kepada Tester. Aplikasi Berbasis Web Data Penjualan dengan Laravel 8 adalah aplikasi yang berfungsi 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [gludugbanyu/cbt-eschool](https://github.com/gludugbanyu/cbt-eschool) - CBT soal AKM. Php 8, Javascript, MySql Aplikasi ujian berbasis web. Dirancang untuk mendukung pelaksanaan ujian online di sekolah dengan fitur keamanan, manajemen soal, dan laporan hasil ujian. berbag
