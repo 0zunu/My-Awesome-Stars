@@ -12,6 +12,7 @@
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
+- [bootstrap](#bootstrap)
 - [bot](#bot)
 - [c](#c)
 - [chatgpt](#chatgpt)
@@ -101,6 +102,10 @@
 
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) - Automate Creation of YouTube Shorts using MoviePy.
 - [Guru322/GURU-Ai](https://github.com/Guru322/GURU-Ai) - SIMPLE YET COMPLICATED 🚩
+
+## bootstrap 
+
+- [ikhsan3adi/absensi-sekolah-qr-code](https://github.com/ikhsan3adi/absensi-sekolah-qr-code) - Sistem absensi sekolah berbasis QR Code dengan multi-role, manajemen hari libur, notifikasi WhatsApp, serta fitur-fitur lainnya.
 
 ## bot 
 
@@ -320,6 +325,7 @@
 
 ## php 
 
+- [ikhsan3adi/absensi-sekolah-qr-code](https://github.com/ikhsan3adi/absensi-sekolah-qr-code) - Sistem absensi sekolah berbasis QR Code dengan multi-role, manajemen hari libur, notifikasi WhatsApp, serta fitur-fitur lainnya.
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [codeigniter4/CodeIgniter4](https://github.com/codeigniter4/CodeIgniter4) - Open Source PHP Framework (originally from EllisLab)
 - [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports 
