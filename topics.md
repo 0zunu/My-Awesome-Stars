@@ -40,6 +40,7 @@
 - [jekyll-theme](#jekyll-theme)
 - [js](#js)
 - [laravel](#laravel)
+- [library](#library)
 - [llm](#llm)
 - [machine-learning](#machine-learning)
 - [markdown](#markdown)
@@ -232,6 +233,10 @@
 
 - [bagussatoto/Aplikasi-Data-Penjualan-Laravel-8](https://github.com/bagussatoto/Aplikasi-Data-Penjualan-Laravel-8) - Membuat Aplikasi Berbasis Web Data Penjualan Menggunakan Laravel 8, Yang Bertujuan Untuk Presentasi Kepada Tester. Aplikasi Berbasis Web Data Penjualan dengan Laravel 8 adalah aplikasi yang berfungsi 
 - [orhanerday/open-ai](https://github.com/orhanerday/open-ai) - OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports 
+
+## library 
+
+- [ausi/slug-generator](https://github.com/ausi/slug-generator) - Slug Generator Library for PHP, based on Unicode’s CLDR data
 
 ## llm 
 
