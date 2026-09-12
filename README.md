@@ -10,8 +10,8 @@
 - [CSS](#css)
 - [Dart](#dart)
 - [Go](#go)
+- [Groovy](#groovy)
 - [HTML](#html)
-- [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Makefile](#makefile)
@@ -52,6 +52,10 @@
 - [watchfire-io/watchfire](https://github.com/watchfire-io/watchfire) - Better context. Better code.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 
+## Groovy 
+
+- [apache/groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
+
 ## HTML 
 
 - [0zunu/blowfish](https://github.com/0zunu/blowfish) - Personal Website & Blog Theme for Hugo
@@ -60,10 +64,6 @@
 - [0zunu/School-Programs](https://github.com/0zunu/School-Programs) - 🎓 This is a repository of educational websites, which are HTML and Ruby. This website is designed to educate people who want to learn coding.
 - [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) - :triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.
 - [MhankBarBar/anime-game-stats](https://github.com/MhankBarBar/anime-game-stats) - Anime Game Stats is a Python script that retrieves statistics and information from Hoyoverse games. Also Anime Game Stats can do auto check-in and auto redeem codes.
-
-## Java 
-
-- [apache/groovy](https://github.com/apache/groovy) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
 
 ## JavaScript 
 
