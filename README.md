@@ -67,6 +67,7 @@
 
 ## JavaScript 
 
+- [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) - The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, an
 - [0zunu/nemesis](https://github.com/0zunu/nemesis) - government budget monitoring
 - [0zunu/Announcements-Anime](https://github.com/0zunu/Announcements-Anime) - :octocat: This script utilizes Node.js modules to retrieve the latest anime information from Crunchyroll's RSS feed. It then organizes this data into HTML content and updates a file with details like 
 - [assai-id/nemesis](https://github.com/assai-id/nemesis) - 
