@@ -46,7 +46,6 @@
 - [llm](#llm)
 - [machine-learning](#machine-learning)
 - [markdown](#markdown)
-- [monitoring](#monitoring)
 - [music](#music)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
@@ -260,10 +259,6 @@
 
 - [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
 
-## monitoring 
-
-- [0zunu/monitoring-all-website](https://github.com/0zunu/monitoring-all-website) - 📈 Uptime monitor and status page for all website, powered by Github
-
 ## music 
 
 - [ThatGuyJacobee/Elite-Music](https://github.com/ThatGuyJacobee/Elite-Music) - Elite Music is an open-source, feature-packed Discord music bot running on discord.js and discord-player. The bot is complete with large selection of commands, effects, optional features, autoplay, cu
@@ -301,7 +296,6 @@
 - [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
 - [0zunu/azriel.id](https://github.com/0zunu/azriel.id) - :shipit: My personal website and blog.
 - [0zunu/downloader](https://github.com/0zunu/downloader) - A simple Flask-based media downloader using yt-dlp.
-- [0zunu/nemesis](https://github.com/0zunu/nemesis) - government budget monitoring
 - [0zunu/Announcements-Anime](https://github.com/0zunu/Announcements-Anime) - :octocat: This script utilizes Node.js modules to retrieve the latest anime information from Crunchyroll's RSS feed. It then organizes this data into HTML content and updates a file with details like 
 - [assai-id/nemesis](https://github.com/assai-id/nemesis) - 
 - [Beneark/Pohon-Natal](https://github.com/Beneark/Pohon-Natal) - 
@@ -317,7 +311,6 @@
 - [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence
 - [deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) - DeepSeek Coder: Let the Code Write Itself
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
-- [0zunu/blowfish](https://github.com/0zunu/blowfish) - Personal Website & Blog Theme for Hugo
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
 - [0zunu/discord-always-online](https://github.com/0zunu/discord-always-online) - 🟢 Make it your discord account always online 24/7.
 - [ruuuruiya/google-maps-scrapping](https://github.com/ruuuruiya/google-maps-scrapping) - 
