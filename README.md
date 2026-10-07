@@ -58,7 +58,6 @@
 
 ## HTML 
 
-- [0zunu/blowfish](https://github.com/0zunu/blowfish) - Personal Website & Blog Theme for Hugo
 - [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish) - Personal Website & Blog Theme for Hugo
 - [0zunu/King-Genshin-StarRail-Stats](https://github.com/0zunu/King-Genshin-StarRail-Stats) - 🍰 Anime Game Stats is a Python script that collects statistics and information from anime games, specifically Genshin Impact and Honkai: Star Rail. 🍹This repository can check in automatically, and red
 - [0zunu/School-Programs](https://github.com/0zunu/School-Programs) - 🎓 This is a repository of educational websites, which are HTML and Ruby. This website is designed to educate people who want to learn coding.
@@ -68,7 +67,6 @@
 ## JavaScript 
 
 - [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) - The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, an
-- [0zunu/nemesis](https://github.com/0zunu/nemesis) - government budget monitoring
 - [0zunu/Announcements-Anime](https://github.com/0zunu/Announcements-Anime) - :octocat: This script utilizes Node.js modules to retrieve the latest anime information from Crunchyroll's RSS feed. It then organizes this data into HTML content and updates a file with details like 
 - [assai-id/nemesis](https://github.com/assai-id/nemesis) - 
 - [Huggyrei/LARPPorterBot](https://github.com/Huggyrei/LARPPorterBot) - Discord bot for managing inventories in online LARPs. Items can have hidden info only accessible to some characters, and characters can give or show items, or make use of stealing abilities. Character
@@ -93,7 +91,6 @@
 
 ## Markdown 
 
-- [0zunu/monitoring-all-website](https://github.com/0zunu/monitoring-all-website) - 📈 Uptime monitor and status page for all website, powered by Github
 - [0zunu/Status-Page-Advanced](https://github.com/0zunu/Status-Page-Advanced) - 📈 Uptime monitor and status page for azriel.id, powered by Github
 
 ## Others 
