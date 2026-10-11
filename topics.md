@@ -293,6 +293,7 @@
 
 ## others 
 
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) - GitHub Actions for Hugo ⚡️ Setup Hugo quickly and build your site fast. Hugo extended, Hugo Modules, Linux (Ubuntu), macOS, and Windows are supported.
 - [0zunu/azriel.id](https://github.com/0zunu/azriel.id) - :shipit: My personal website and blog.
 - [0zunu/downloader](https://github.com/0zunu/downloader) - A simple Flask-based media downloader using yt-dlp.
