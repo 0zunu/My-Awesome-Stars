@@ -184,6 +184,7 @@
 
 ## game 
 
+- [git-goods/gitanimals](https://github.com/git-goods/gitanimals) - 🐣 깃허브 활동으로 펫을 키우세요 / Have pet in your github
 - [0zunu/King-Genshin-StarRail-Stats](https://github.com/0zunu/King-Genshin-StarRail-Stats) - 🍰 Anime Game Stats is a Python script that collects statistics and information from anime games, specifically Genshin Impact and Honkai: Star Rail. 🍹This repository can check in automatically, and red
 - [MhankBarBar/anime-game-stats](https://github.com/MhankBarBar/anime-game-stats) - Anime Game Stats is a Python script that retrieves statistics and information from Hoyoverse games. Also Anime Game Stats can do auto check-in and auto redeem codes.
 
