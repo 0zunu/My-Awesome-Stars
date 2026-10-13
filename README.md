@@ -14,6 +14,7 @@
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
@@ -85,6 +86,10 @@
 ## Jupyter Notebook 
 
 - [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) - 12 Weeks, 24 Lessons, AI for All!
+
+## Kotlin 
+
+- [git-goods/gitanimals](https://github.com/git-goods/gitanimals) - 🐣 깃허브 활동으로 펫을 키우세요 / Have pet in your github
 
 ## Makefile 
 
