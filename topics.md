@@ -62,6 +62,7 @@
 - [react](#react)
 - [rest-api](#rest-api)
 - [serverless](#serverless)
+- [skills](#skills)
 - [statistics](#statistics)
 - [symfony](#symfony)
 - [termux](#termux)
@@ -373,6 +374,10 @@
 
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [AnandChowdhary/location](https://github.com/AnandChowdhary/location) - 📍 Tracking my location in real time for over 10 years in this repo
+
+## skills 
+
+- [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) - The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, an
 
 ## statistics 
 
