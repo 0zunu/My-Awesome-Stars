@@ -29,7 +29,7 @@
 
 ## C 
 
-- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 
 ## C++ 
@@ -67,6 +67,7 @@
 
 ## JavaScript 
 
+- [stalomeow/metrics](https://github.com/stalomeow/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) - The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, an
 - [0zunu/website-template](https://github.com/0zunu/website-template) - :shipit: website template
 - [0zunu/azriel.id](https://github.com/0zunu/azriel.id) - :shipit: My personal website and blog.
