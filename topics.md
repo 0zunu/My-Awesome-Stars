@@ -294,7 +294,6 @@
 
 ## others 
 
-- [0zunu/tools](https://github.com/0zunu/tools) - ⛏️ tools
 - [stalomeow/metrics](https://github.com/stalomeow/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [0zunu/resume](https://github.com/0zunu/resume) - 🗒️ resume
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.
