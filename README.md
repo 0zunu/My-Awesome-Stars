@@ -67,7 +67,6 @@
 
 ## JavaScript 
 
-- [0zunu/tools](https://github.com/0zunu/tools) - ⛏️ tools
 - [stalomeow/metrics](https://github.com/stalomeow/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) - The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, an
 - [0zunu/website-template](https://github.com/0zunu/website-template) - :shipit: website template
